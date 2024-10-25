@@ -60,6 +60,7 @@ ul {
   text-size-adjust: 30px;
   border-right: 1px solid rgb(105, 95, 95);
 }
+
 .column-one {
   display: grid;
   grid-template-columns: 71% 29%;
@@ -71,13 +72,15 @@ ul {
   justify-content: center;
   flex-direction: column;
 }
+
 .a5 {
   display: flex;
   justify-content: center;
   flex-direction: column;
   border-bottom: 1px solid black;
 }
-.a7{
+
+.a7 {
   display: flex;
   justify-content: center;
   flex-direction: column;
@@ -85,14 +88,15 @@ ul {
   img{
     width: 20%;
   }
-  
 }
-.a9{
+
+.a9 {
   display: flex;
   justify-content: center;
   flex-direction: column;
 }
-.column-two{
+
+.column-two {
   img {
     width: 100px;
   }
@@ -108,23 +112,26 @@ ul {
   border-right: 1px solid black;
   font-size: larger;
 }
+
 .game-section-two {
   display: grid;
   grid-template-columns: 33.3% 33.3% 33.3%;
   border-right: 1px solid black;
   font-size: larger;
 }
-.more{
+
+.more {
   display: table;
   justify-content: center;
   table-layout: fixed;
-
 }
-.a4{
+
+.a4 {
   align-items: center;
   align-content: space-between;
 }
-#more-news{
+
+#more-news {
   display: grid;
   grid-template-columns: 20% 20% 20% 20%;
   align-items: center;
@@ -133,7 +140,8 @@ ul {
     width: 50%;
   }
 }
-.the-news{
+
+.the-news {
   display: flex;
   align-content: center;
   justify-content: space-between;
@@ -144,20 +152,23 @@ ul {
     height: 300px;
   }
 }
-.table{
+
+.table {
   display: flex;
   align-content: center;
   justify-content: space-between;
 }
+
 .a10 {
   display: grid;
 }
-.a9{
+.a9 {
   display: flex;
   align-content: center;
   justify-content: space-evenly;
 }
-.messi{
+
+.messi {
   display: flex;
   align-content: center;
   font-size: medium;
@@ -166,22 +177,27 @@ ul {
     width: 500px;
   }
 }
-.col-one{
+
+.col-one {
   font-size: larger;
   align-content: space-between;
 }
-.sec-one{
+
+.sec-one {
   display: table;
   table-layout: auto;
 }
+
 .r1 {
   margin: 20px;
   padding: 0px ;
 }
+
 .a8 {
   display: flex;
 }
-.t-one{
+
+.t-one {
   display: grid;
   grid-template-columns: 50% 50%;
 }
